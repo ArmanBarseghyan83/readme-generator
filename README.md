@@ -2,7 +2,7 @@
 
 ## Description
 
-This project taught me how to use inquirer for generating README.md file.
+This project uses inquirer for generating README.md file.
 
 ## Usage
 
@@ -13,8 +13,9 @@ Go to [Video demonstrating the functionality of the application](https://drive.g
 A sample README.md file generated using Readme Generator.
 ![A sample README.md file generated using Readme Generator](./assets/readme-sample.png)
 
-## Credits
+## Questions
+### Use the links below if you have any questions.
+- Email Address - [armanbarseghyan83@gmail.com](mailto:armanbarseghyan83@gmail.com)
+- Linkedin - [https://www.linkedin.com/in/arman-barseghyan](https://www.linkedin.com/in/arman-barseghyan)
+- GitHub Profile - [https://github.com/ArmanBarseghyan83](https://github.com/ArmanBarseghyan83)
 
-Throughout this past year, I have completed different online courses and have previous programming experience by building my portfolio projects.
-
-Please see my [Portfolio](https://armanbarseghyan83.github.io/portfolio/).
